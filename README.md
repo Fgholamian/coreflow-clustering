@@ -27,6 +27,13 @@ The code will visualize the original data and the clustered result side by side.
 
 ---
 
+## Citation
+
+If you use this algorithm in research or software, please cite:
+
+Gholamian, F. (2024). *CoreFlow Clustering: A Novel Flow-Based Unsupervised Learning Algorithm*. Zenodo. https://doi.org/10.5281/zenodo.15237367
+
+
 ##  Install & Run
 
 ```bash
