@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+title: "CoreFlow Clustering"
+authors:
+  - family-names: Gholamian
+    given-names: Farzad
+    affiliation: Geophysicist & Data Scientist, Ontario, Canada
+date-released: 2024-04-17
+version: 1.0.0
+doi: 10.5281/zenodo.15237367
+url: https://github.com/fgholamian/coreflow-clustering
